@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "b47999e2b8ace461",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc7a433f6c3e606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55b8e3d1c3a1832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC-Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bd5f3088ef87886",
+    "type": "split",
+    "children": [
+      {
+        "id": "34faa651b99d1532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942dcf63c093c032",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3a2e0db9be373d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17967f3471327d21",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef6b72b3fc43f663",
+    "type": "split",
+    "children": [
+      {
+        "id": "47c15be2c0db5224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95a33e06de6d941",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SOC-Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95a1b2b63a328317",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SOC-Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f988c9b88aa104a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4734c46025a70769",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SOC-Questions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c55b8e3d1c3a1832",
+  "lastOpenFiles": []
+}
